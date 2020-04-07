@@ -1,3 +1,7 @@
+/*
+The idea is pretty easy, just run two pointers and get rid of the maximum d consecutive numbers, which could be easily
+done with a set
+*/
 #include <bits/stdc++.h>
 using namespace std;
 const int N=2e6+6;
